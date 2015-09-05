@@ -1,0 +1,15 @@
+{
+  "name": "mg-textbox",
+  "version": "1.0.0",
+  "description": "A text box directive which takes the inputs according the configurations provided to the directive like alphanumeric, whether it allow space etc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "directive",
+    "texbox"
+  ],
+  "author": "Shiva Kumar Routhu",
+  "license": "ISC"
+}

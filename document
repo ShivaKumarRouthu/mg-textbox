@@ -1,0 +1,23 @@
+Aim: Create a directive which is configurable for most of the inputs
+Description: A directive which is used for most scenarios by the use /* To Be Improved*/
+Requirements: angularjs
+Supported: IE, Chrome, Firefox, Safari.
+Features:
+Phase1:
+-- Input text
+-- length constraint
+-- Input alphabets only
+-- Input Numbers only
+-- Input alphanumeric only
+-- Input with/without spaces
+-- Input with regex
+-- restrict typing
+-- show warning
+
+phase 2:
+-- Language Encoding:
+--
+How to use:
+
+Analysis:
+It should have a be able to take input in the require format provided by the use;
